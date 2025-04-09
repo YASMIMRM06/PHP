@@ -7,11 +7,9 @@ use Illuminate\Database\Seeder;
 
 class PessoaSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
-    public function run(): void
-    {
-        //
-    }
+    Pessoa :: create([
+        'nome'=>
+        'idade'=>
+        'cpf' =>
+    ])
 }
